@@ -47,8 +47,6 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 ![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
-
-
  
 iii)	Creating the Symbol for schematic Cell view
 
@@ -66,7 +64,6 @@ iii)	Creating the Symbol for schematic Cell view
 
  ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
 
-
 iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
@@ -77,8 +74,6 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 ![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
-
-
  
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -94,37 +89,16 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
- 
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
 ![Screenshot 2024-09-28 115515](https://github.com/user-attachments/assets/b476f8fe-b12a-4e98-a309-c2fa85d99235)
 
-
  For DC Analysis Settings and Output
 ![WhatsApp Image 2024-10-05 at 10 42 14 AM](https://github.com/user-attachments/assets/b0dd2903-97e0-4062-9f14-8847a146383d)
 
-
-![WhatsApp Image 2024-10-05 at 10 43 13 AM](https://github.com/user-attachments/assets/8d8b3c42-35f1-4dff-a55f-c2bbe150c76c)
-
- 
-
-
-
-
- 
+![WhatsApp Image 2024-10-05 at 10 43 13 AM](https://github.com/user-attachments/assets/8d8b3c42-35f1-4dff-a55f-c2bbe150c76c) 
 
 Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
-
-
-
-
-
-
-
-
-
-
-
